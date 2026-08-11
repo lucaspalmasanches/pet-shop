@@ -20,6 +20,8 @@ Aqui estão as tecnologias que utilizei para construir este projeto:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+🌐 [Ver Projeto Online](https://lucaspalmasanches.github.io/pet-shop/)
+
 ---
 
 ## ✨ Funcionalidades
