@@ -1,18 +1,18 @@
-# Pet Shop 🐾
+# Pet Shop 🐶🐱
 
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## Sobre o Projeto ✨
+## About the Project ✨
 
-Este é um projeto desenvolvido como parte do meu aprendizado no [DevClub](https://www.devclub.com.br/). O "Pet Shop" é uma **landing page responsiva** que simula a interface de um pet shop, destacando produtos, serviços e informações de contato de forma amigável e moderna.
+This project was developed as part of my learning journey at [DevClub](https://www.devclub.com.br/). The "Pet Shop" is a static, yet visually appealing, web page created to simulate the interface of an online pet shop.
 
-Com este projeto, busco demonstrar minhas habilidades na construção de layouts adaptáveis para diferentes dispositivos, aplicando os fundamentos de HTML, CSS e JavaScript para uma experiência de usuário rica e interativa.
+With this project, I aim to consolidate my knowledge in HTML and CSS, focusing on creating **modern and fully responsive layouts**. It's an excellent example of how to structure and style a web page to present information clearly and attractively, adapting seamlessly to various screen sizes.
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 💻 Technologies Used
 
-Aqui estão as tecnologias que utilizei para construir este projeto:
+Here are the technologies I used to build this project:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,48 +20,69 @@ Aqui estão as tecnologias que utilizei para construir este projeto:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🌐 [Ver Projeto Online](https://lucaspalmasanches.github.io/pet-shop/)
+---
+
+## ✨ Features
+
+*   **Fully Responsive Design:** Adapts to different screen sizes for optimal viewing on **mobile devices and desktops**, ensuring a consistent user experience.
+
+*   **Information Sections:** Clearly presents services, products, and contact information.
+
+*   **Intuitive Interface:** Clean and easy-to-navigate layout.
+
+*   **Modern Styling:** Utilizes CSS techniques for a contemporary look.
 
 ---
 
-## ✨ Funcionalidades
+## 📸 Project Visualization
 
-*   **Design Responsivo:** Layout que se adapta fluidamente a telas de desktop, tablets e smartphones.
-
-*   **Seções de Conteúdo:** Apresentação de serviços, produtos e informações de contato de forma organizada.
-
-*   **Interface Amigável:** Design intuitivo e visualmente atraente para os usuários.
-
-*   **Estrutura Semântica:** Utilização de tags HTML apropriadas para melhor acessibilidade e otimização para motores de busca (SEO).
-
----
-
-## 📸 Visualização do Projeto
-
-Confira o projeto rodando em diferentes dispositivos:
+Check out the responsive design of the project across different devices:
 
 <p align="center">
-  <img src="https://github.com/lucaspalmasanches/pet-shop/blob/master/img/PetShopDesktop.png?raw=true" alt="Pet Shop - Versão Desktop" width="48%">
-  <img src="https://github.com/lucaspalmasanches/pet-shop/blob/master/img/PetShopMobile.png?raw=true" alt="Pet Shop - Versão Mobile" width="48%">
+  <img src="https://raw.githubusercontent.com/lucaspalmasanches/pet-shop/master/img/PetShopDesktop.png" alt="Pet Shop - Desktop Version" width="40%">
+  <img src="https://raw.githubusercontent.com/lucaspalmasanches/pet-shop/master/img/PetShopMobile.png" alt="Pet Shop - Mobile Version" width="35%">
 </p>
 
----
-
-## 📚 Aprendizados
-
-Este projeto foi uma experiência valiosa para consolidar meus conhecimentos em:
-
-*   **HTML Semântico:** Criação de estruturas web claras e acessíveis.
-
-*   **CSS Avançado:** Utilização de Flexbox para layouts, media queries para responsividade e variáveis CSS.
-
-*   **Controle de Versão:** Gerenciamento de código com Git e GitHub, incluindo commits, branches e pushes.
+🌐 [View Project Online](https://lucaspalmasanches.github.io/pet-shop/)
 
 ---
 
-## Conecte-se Comigo 🤝
+## 🚀 How to Run the Project (Locally)
 
-Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato!
+To run this project on your local machine, follow the steps below:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/lucaspalmasanches/pet-shop.git
+    ```
+
+2.  **Navigate to the project directory:**
+    ```bash
+    cd pet-shop
+    ```
+
+3.  **Open the `index.html` file:**
+    *   Simply open the `index.html` file in your preferred web browser to view the page.
+
+---
+
+## 📚 Learnings
+
+This project was a valuable experience for consolidating my knowledge in:
+
+*   **Semantic HTML:** Clear and meaningful structuring of web content.
+
+*   **Responsive CSS:** Creation of adaptable layouts for different devices (desktop and mobile).
+
+*   **Flexbox/Grid:** Use of modern CSS layout techniques.
+
+*   **Version Control:** Efficient code management with Git and GitHub.
+
+---
+
+## Let's Connect! 🤝
+
+I'm always open to new connections, opportunities, and challenges. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-palma-sanches-082902426)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspalma331@gmail.com)
